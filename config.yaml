@@ -234,3 +234,6 @@ markup:
         lineNumbersInTable: true
         tabWidth: 4
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+
+disqusShortname = "sarathbn"
+
