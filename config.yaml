@@ -50,7 +50,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: img/picture.jpg
+            src: img/pic.jpg
         
 
     article:
