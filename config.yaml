@@ -11,7 +11,7 @@ languages:
         weight: 1
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+disqusShortname: nallamudi
 
 # GA Tracking ID
 googleAnalytics:
@@ -235,5 +235,4 @@ markup:
         tabWidth: 4
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 
-disqusShortname = "sarathbn"
 
